@@ -1,4 +1,4 @@
-name: cbir
+name: imageretrieval
 channels:
 - menpo
 - defaults
